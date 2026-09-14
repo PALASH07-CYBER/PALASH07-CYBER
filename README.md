@@ -195,7 +195,7 @@ class Palash:
 
 I'm also interested in **entrepreneurship, startups, branding and building communities**.
 
-Being involved with my college's **E-Cell** gives me the opportunity to explore the world beyond technology — from entrepreneurship and events to content, branding and startup culture.
+Being involved with my college's **E-Cell (EPIC)** gives me the opportunity to explore the world beyond technology — from entrepreneurship and events to content, branding and startup culture.
 
 I believe technology becomes truly powerful when it's used to solve **real problems**.
 
